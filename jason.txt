@@ -1,0 +1,12 @@
+{"id":"111",
+  "name":"TV",
+  "price":"250",
+  "color":["red","green","yellow"],
+  "manufacturer":{
+    "name":"ABC company",
+    "city":"chicago".
+    "website":"http://www.abc.com"
+    }
+
+  
+}
