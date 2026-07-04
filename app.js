@@ -121,7 +121,7 @@ function toast(msg) {
 }
 
 function confetti(n) {
-  const colors = ["#e8590c", "#f5a623", "#2f9e44", "#1971c2", "#9c36b5", "#e03131"];
+  const colors = ["#23745a", "#b8860b", "#c23b2e", "#2b6777", "#4fbf95", "#d9a93e"];
   for (let i = 0; i < n; i++) {
     const p = h(`<div class="confetti-piece"></div>`);
     p.style.left = Math.random() * 100 + "vw";
